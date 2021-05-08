@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jolly-hawking-cfe1c0.netlify.app/](https://jolly-hawking-cfe1c0.netlify.app/)
 
-- 💬 Ask me about **JS, Python**
+- 💬 Ask me about **JS,C++,Python**
 
 - 📫 How to reach me **aryanverma2412@gmail.com**
 
