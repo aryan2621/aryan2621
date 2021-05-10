@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://jolly-hawking-cfe1c0.netlify.app/](https://jolly-hawking-cfe1c0.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://loving-mahavira-feb7a9.netlify.app//](https://loving-mahavira-feb7a9.netlify.app//)
 
 - 💬 Ask me about **JS,C++,Python**
 
