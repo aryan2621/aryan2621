@@ -11,7 +11,7 @@ Open to work · [LinkedIn](https://www.linkedin.com/in/rishabh-verma-5366901a1)
 - **[workspace-mcp](https://github.com/aryan2621/workspace-mcp)** — MCP server for Gmail, Calendar, Sheets, and PDFs
 - **[doc-smith](https://github.com/aryan2621/doc-smith)** — GitHub markdown to hosted docs
 - **[marketplace](https://github.com/aryan2621/marketplace)** — Android app marketplace with a review pipeline
-- **[Jobify](https://github.com/aryan2621/Jobify)** — Job hiring platform
+- **[jobconnect](https://github.com/aryan2621/jobconnect)** — Job hiring platform
 
 ### Stack
 
